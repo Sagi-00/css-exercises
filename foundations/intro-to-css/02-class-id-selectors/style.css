@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: #ec7d7d;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+#div-1{
+    color: hsl(236, 82%, 53%);
+    font-size: 36px;
+}
+.special{
+    font-size: 24px;
+}
+#div-2{
+    background-color: hsl(120, 84%, 29%);
+    font-size: 24px;
+    font-weight: bold;
+}
